@@ -1,4 +1,4 @@
-# Arsitektur-Multiple-Prosesor-dan-Multiprosesor-Symmetric
+# Arsitektur Multiple Prosesor dan Multiprosesor Symmetric
 
 ![Screenshot 2025-05-05 081554](https://github.com/user-attachments/assets/afda330b-4ee6-4799-8962-2ac11476649f)
 
